@@ -7,7 +7,7 @@
 - removed "visual tests"
 - fixed facet_wrap and facet_grid so they actually do that they're supposed to
 - removed half-baked geoms and stats
-- simplified stat_* functions
+- simplified stat_# functions
 - added pigeons and chopsticks datasets
 
 =====
@@ -153,3 +153,4 @@ fastforwarding a bit...
 0.1.0
 ======
 - basic working version
+ 
